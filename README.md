@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋🏻 Hi, I'm Richard Ziupsnys
 
-<!--
-**Richy-Z/Richy-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **software engineer** and **backend developer** with a deep passion for problem solving and creating innovative digital solutions.
 
-Here are some ideas to get you started:
+![Richy-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+- **Languages**: Lua, Python, C, and more on the way!
+- **Backend**: API Development, Server Infrastructure
+- **Other**: Game Development (Roblox), Brand Design, Economics
+
+## 😎
+- Founder of **Numelon**, a software and game development company
+- Creator of **Nue**, a flexible and lightweight programming language which doesn't compromise power
+- Creator of **FUNK**, a high-performance Discord music bot
+- Extensive experience in **API development**, **server infrastructure**, **brand design** and **economics**
+- Developer of **The Modern Elevator**, a thrilling Roblox game
+
+## ⚡ Fun Fact
+I love solving tough technical problems and often find myself coding late into the night, fueled by sheer curiosity and a drive to make things work
+
+## 📫 Let's Connect!
+- Email: [hello@richy.lol](mailto:hello@richy.lol)
+- Website: [richy.lol](https://richy.lol)
+
+Check out my [GitHub repositories](https://github.com/Richy-Z?tab=repositories) or [my website](https://richy.lol) for more about me!
