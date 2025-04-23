@@ -5,15 +5,19 @@ Welcome to my GitHub profile! I'm a **software engineer** and **backend develope
 ![Richy-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)
 
 ## 🔧 Technologies & Skills
-- **Languages**: Lua, Python, C, and more on the way!
-- **Backend**: API Development, Server Infrastructure
-- **Other**: Game Development (Roblox), Brand Design, Economics/Finance
+I know Lua, Python, and C - with more on the way!
+
+I have *extensive* experience in API development, entire backends and server infrastructure.
+
+I am also involved in game development, entire brand design & management, with additional knowledge in economics and finance.
 
 ## 😎
-- Founder of **Numelon**, a software and game development company
-- Creator of **Nue**, a flexible and lightweight programming language which doesn't compromise power
-- Creator of **FUNK**, a high-performance Discord music bot
-- Extensive experience in **API development**, **server infrastructure**, **brand design** and **economics**
+I am the founder of **Numelon**, a software and game development company. One of our most well-known products (and one of our first commercially available ones) is [**Rubiš**](https://rubis.app), where I was deeply involved in building the entire brand, API architecture, ensuring data efficiency and stability.
+
+And more:
+- Creator of [**Nue**](https://nue.nu), a flexible and lightweight programming language in C which aims to be simple and easy to learn, without eliminating advanced features
+- Creator of **FUNK**, a high-performance, quality Discord music bot which connects friends and communities together through music
+- Creator of the [**Numelon Stock Exchange (NSE)**](https://nse.finance), the most advanced financial simulation in the world, intended to be fun.
 - Developer of **The Modern Elevator**, a fun Roblox game
 
 ## ⚡ Fun Fact
