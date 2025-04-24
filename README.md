@@ -2,23 +2,25 @@
 
 Welcome to my GitHub profile! I'm a **software engineer** and **backend developer** with a deep passion for problem solving.
 
-![Richy-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)
+| Known languages | GitHub Statistics | Languages used in public repositories |
+|-----------|-------------------|---------------------------------------|
+| [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,python,c,js,java&perline=5)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) | [![Languages that are used by Richard Ziupsnys in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Richy-Z&layout=compact&theme=radical)](https://richy.lol) |
 
 ## 🔧 Technologies & Skills
-I know Lua, Python, and C - with more on the way!
+I know Lua and Python fluently along with C, and I also have an understanding of JavaScript and Java - which are actively being worked on!
 
 I have *extensive* experience in API development, entire backends and server infrastructure.
 
 I am also involved in game development, entire brand design & management, with additional knowledge in economics and finance.
 
-## 😎
+## 😎 A bit about me
 I am the founder of **Numelon**, a software and game development company. One of our most well-known products (and one of our first commercially available ones) is [**Rubiš**](https://rubis.app), where I was deeply involved in building the entire brand, API architecture, ensuring data efficiency and stability.
 
 And more:
 - Creator of [**Nue**](https://nue.nu), a flexible and lightweight programming language in C which aims to be simple and easy to learn, without eliminating advanced features
 - Creator of **FUNK**, a high-performance, quality Discord music bot which connects friends and communities together through music
 - Creator of the [**Numelon Stock Exchange (NSE)**](https://nse.finance), the most advanced financial simulation in the world, intended to be fun.
-- Developer of **The Modern Elevator**, a fun Roblox game
+- Developer of [**The Modern Elevator**](https://www.roblox.com/games/8551445294/The-Modern-Elevator), a fun Roblox game
 
 ## ⚡ Fun Fact
 I love solving tough technical problems and often find myself coding late into the night, fueled by curiosity and a drive to make things work.
