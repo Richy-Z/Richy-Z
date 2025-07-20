@@ -17,10 +17,10 @@ I am also involved in game development, entire brand design & management, with a
 I am the founder of **Numelon**, a software and game development company. One of our most well-known products (and one of our first commercially available ones) is [**Rubiš**](https://rubis.app), where I was deeply involved in building the entire brand, API architecture, ensuring data efficiency and stability.
 
 And more:
-- Creator of [**Nue**](https://nue.nu), a flexible and lightweight programming language in C which aims to be simple and easy to learn, without eliminating advanced features
-- Creator of **FUNK**, a high-performance, quality Discord music bot which connects friends and communities together through music
+- Creator of [**Nue**](https://nue.nu), a flexible and lightweight programming language in C which aims to be simple and easy to learn, without eliminating advanced features.
+- Creator of [**FUNK**](https://funk.numelon.com), a high-performance, quality Discord music bot which connects friends and communities together through music.
 - Creator of the [**Numelon Stock Exchange (NSE)**](https://nse.finance), the most advanced financial simulation in the world, intended to be fun.
-- Developer of [**The Modern Elevator**](https://www.roblox.com/games/8551445294/The-Modern-Elevator), a fun Roblox game
+- Developer of [**The Modern Elevator**](https://www.roblox.com/games/8551445294/The-Modern-Elevator), a fun Roblox game.
 
 ## ⚡ Fun Fact
 I love solving tough technical problems and often find myself coding late into the night, fueled by curiosity and a drive to make things work.
