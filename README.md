@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **software engineer** and **backend develope
 
 | Known languages | GitHub Statistics | Languages used in public repositories |
 |-----------|-------------------|---------------------------------------|
-| [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,python,c,js,java&perline=5)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) | [![Languages that are used by Richard Ziupsnys in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Richy-Z&layout=compact&theme=radical)](https://richy.lol) |
+| [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,python,java,c,js,html&perline=6)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) | [![Languages that are used by Richard Ziupsnys in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Richy-Z&layout=compact&theme=radical)](https://richy.lol) |
 
 ## 🔧 Technologies & Skills
 I know Lua and Python fluently along with C, and I also have an understanding of JavaScript and Java - which are actively being worked on!
