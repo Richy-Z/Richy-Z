@@ -22,7 +22,7 @@ I enjoy:
 - and rewriting bottlenecks in C when necessary (although that might just be because I have outgrown Lua's purpose to the point where external intervention is required)
 
 ## 🐠 Projects
-Of course, all of the above practically means nothing if I don't tell you about some real-world projects where I actually apply mentioned theory.
+Of course, all of the above practically means nothing if I don't tell you about some real-world projects where I actually apply some theory.
 
 ### [Numelon Rubiš](https://rubis.app) - High-performance paste and content platform
 - 2M+ stored documents
