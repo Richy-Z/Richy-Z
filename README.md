@@ -1,32 +1,54 @@
-# 👋🏻 Hi, I'm Richard Ziupsnys
-
-Welcome to my GitHub profile! I'm a **software engineer** and **backend developer** with a deep passion for problem solving.
-
 | Known languages | GitHub Statistics | Languages used in public repositories |
 |-----------|-------------------|---------------------------------------|
 | [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,python,java,go,c,js,html&perline=2)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats-self-three.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) | [![Languages that are used by Richard Ziupsnys in public repositories](https://github-readme-stats-self-three.vercel.app/api/top-langs/?username=Richy-Z&layout=compact&theme=radical&exclude_repo=Luobulesi-Research,github-readme-stats)](https://richy.lol) |
 
-## 🔧 Technologies & Skills
-I know Lua and Python fluently along with C, and I also have an understanding of JavaScript and Java - which are actively being worked on!
+# 👋🏻 Hi, I'm Richard Ziupsnys
 
-I have *extensive* experience in API development, entire backends and server infrastructure.
+Hello - I'm Richard. I'm a Year 12 A-Level student who builds backend systems, programming tools, and infrastructure projects in my spare time.
 
-I am also involved in game development, entire brand design & management, with additional knowledge in economics and finance.
+I work primarily with **Lua/Luvit**, **Go**, and **C**, and I enjoy designing things close to the protocol layer - HTTP internals, routing engines, storage formats, and distributed infrastructure (the last one is my favourite).
 
-## 😎 A bit about me
-I am the founder of **Numelon**, a software and game development company. One of our most well-known products (and one of our first commercially available ones) is [**Rubiš**](https://rubis.app), where I was deeply involved in building the entire brand, API architecture, ensuring data efficiency and stability.
+Despite still being in school, I have independently built several production systems used by thousands of users, along with language tooling and low-level runtime components.
 
-And more:
-- Creator of [**Nue**](https://nue.nu), a flexible and lightweight programming language in C which aims to be simple and easy to learn, without eliminating advanced features.
-- Creator of [**FUNK**](https://funk.numelon.com), a high-performance, quality Discord music bot which connects friends and communities together through music.
-- Creator of the [**Numelon Stock Exchange (NSE)**](https://nse.finance), the most advanced financial simulation in the world, intended to be fun.
-- Developer of [**The Modern Elevator**](https://www.roblox.com/games/8551445294/The-Modern-Elevator), a fun Roblox game.
+## 🔧 What do I build?
+Backend systems, high-performance infrastructure, datastores, and protocol tooling. Some language design too, if you would like to include the [Nue Programming Language](https://nue.nu).
 
-## ⚡ Fun Fact
-I love solving tough technical problems and often find myself coding late into the night, fueled by curiosity and a drive to make things work.
+I enjoy:
+- designing high-performance HTTP stacks,
+- implementing RFC-compliant protocols like SMTP, TOTP, and OAuth2,
+- building storage engines and KV databases,
+- real-world systems optimuisation,
+- Lua/Luvit internals, coroutines and event loops,
+- and rewriting bottlenecks in C when necessary (although that might just be because I have outgrown Lua's purpose to the point where external intervention is required)
 
-## 📫 Contact me!
-- Email: [hello@richy.lol](mailto:hello@richy.lol)
-- Website: [richy.lol](https://richy.lol)
+## 🐠 Projects
+Of course, all of the above practically means nothing if I don't tell you about some real-world projects where I actually apply mentioned theory.
 
-Check out my [GitHub repositories](https://github.com/Richy-Z?tab=repositories) or [my website](https://richy.lol) for more about me!
+### [Numelon Rubiš](https://rubis.app) - High-performance paste and content platform
+- 2M+ stored documents
+- 10K+ monthly users
+- Low-overhead HTTP server through a heavy extension of [`coro-http`](https://github.com/luvit/lit/blob/master/deps/coro-http.lua)
+- Full telemetry with latency histograms, RPC counters, TTFB, and tag-based metrics
+- MessagePack metadata pipeline with serialisation offloaded to C
+- Burst-tested to ~12.5M requests without failure
+- Used as the backend trust layer for [sUNC's](https://sunc.su) test result verification
+
+### Numelon Passport - OAuth2 Identity Provider
+*Currently being rewritten in Go using my in-progress framework, Rind*
+
+- Full OAuth2 authorisation code flow
+- Sessions, grants, and application management
+- Strict CSRF protection and protection against replay attacks
+- Passwordless login architecture
+- TOTP 2FA implemented from RFC 6238 / RFC 4226 using OpenSSL's HMAC
+- Custom SMTP client, "Letterbox", with persistent connections, MIME encoding, and connection pooling
+
+### There's more...
+
+There is A LOT more in *much* more detail, however I would like to keep my GitHub README concise. For more information, please visit [my website](https://richy.lol).
+
+## Links
+
+Website: [richy.lol](https://richy.lol)
+LinkedIn: [richy-z](https://linkedin.com/in/richy-z)
+Email: [hello@richy.lol](mailto:hello@richy.lol)
