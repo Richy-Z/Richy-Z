@@ -33,6 +33,15 @@ Of course, all of the above practically means nothing if I don't tell you about 
 - Burst-tested to ~12.5M requests without failure
 - Used as the backend trust layer for [sUNC's](https://sunc.su) test result verification
 
+### [Sklair](https://sklair.numelon.com) - HTML compiler and build system
+- HTML compilation with component expansion
+- Head segmentation and deterministic ordering (resource hints, metadata, scripts, styles)
+- Sandboxed pre- and post-build Lua hooks for data generation and build-time logic
+- Strict filesystem sandboxing for hooks (project / cache / generated / built scopes)
+- Live development server with filesystem watching and debounced rebuilds
+- **Builds that are only a few milliseconds**
+- Zero runtime dependencies in the browser
+
 ### Numelon Passport - OAuth2 Identity Provider
 *Currently being rewritten in Go using my in-progress framework, Rind*
 
