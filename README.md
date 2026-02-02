@@ -2,7 +2,7 @@
 |-----------|-------------------|---------------------------------------|
 | [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,python,java,go,c,js,html&perline=2)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats-self-three.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) | [![Languages that are used by Richard Ziupsnys in public repositories](https://github-readme-stats-self-three.vercel.app/api/top-langs/?username=Richy-Z&layout=compact&theme=radical&exclude_repo=Luobulesi-Research,github-readme-stats,nwcdnfs)](https://richy.lol) |
 
-# 👋🏻 Hi, I'm Richard Ziupsnys
+# Hi, I'm Richard Ziupsnys
 
 Hello - I'm Richard. I'm a Year 12 A-Level student who builds backend systems, programming tools, and infrastructure projects in my spare time.
 
@@ -10,7 +10,7 @@ I work primarily with **Lua/Luvit**, **Go**, and **C**, and I enjoy designing th
 
 Despite still being in school, I have independently built several production systems used by thousands of users, along with language tooling and low-level runtime components.
 
-## 🔧 What do I build?
+## What do I build?
 Backend systems, high-performance infrastructure, datastores, and protocol tooling. Some language design too, if you would like to include the [Nue Programming Language](https://nue.nu).
 
 I enjoy:
