@@ -5,7 +5,7 @@
 
 | Known languages | GitHub Statistics |
 |-----------|-------------------|
-| [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,go,c,python,java,js,html,tailwind&perline=8)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats-self-three.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) |
+| [![Richard Ziupsnys knows Lua, Python, C, JavaScript and Java](https://skillicons.dev/icons?i=lua,go,cpp,python,java,js,html,tailwind&perline=8)](https://richy.lol) | [![Richard Ziupsnys' GitHub Statistics](https://github-readme-stats-self-three.vercel.app/api?username=Richy-Z&show_icons=true&theme=radical)](https://richy.lol) |
 
 # Hi, I'm Richard Ziupsnys
 
