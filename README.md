@@ -11,7 +11,7 @@
 
 Hello - I'm Richard. I'm a Year 12 A-Level student who builds backend systems, programming tools, and infrastructure projects in my spare time.
 
-I work primarily with **Lua/Luvit**, **Go**, and **C**, and I enjoy designing things close to the protocol layer - HTTP internals, routing engines, storage formats, and distributed infrastructure (the last one is my favourite).
+I work primarily with **Go**, **Lua/Luvit**, and **C**, and I enjoy designing things close to the protocol layer - HTTP internals, routing engines, storage formats, and distributed infrastructure (the last one is my favourite).
 
 Despite still being in school, I have independently built several production systems used by thousands of users, along with language tooling and low-level runtime components.
 
@@ -19,10 +19,11 @@ Despite still being in school, I have independently built several production sys
 Backend systems, high-performance infrastructure, datastores, and protocol tooling. Some language design too, if you would like to include the [Nue Programming Language](https://nue.nu).
 
 I enjoy:
+- writing character-by-character scanners/parsers
 - designing high-performance HTTP stacks,
 - implementing RFC-compliant protocols like SMTP, TOTP, and OAuth2,
 - building storage engines and KV databases,
-- real-world systems optimuisation,
+- real-world systems optimisation,
 - Lua/Luvit internals, coroutines and event loops,
 - and rewriting bottlenecks in C when necessary (although that might just be because I have outgrown Lua's purpose to the point where external intervention is required)
 
@@ -30,11 +31,11 @@ I enjoy:
 Of course, all of the above practically means nothing if I don't tell you about some real-world projects where I actually apply some theory.
 
 ### [Numelon Rubiš](https://rubis.app) - High-performance paste and content platform
-- 2M+ stored documents
+- 3M+ stored documents
 - 10K+ monthly users
-- Low-overhead HTTP server through a heavy extension of [`coro-http`](https://github.com/luvit/lit/blob/master/deps/coro-http.lua)
+- ~~Low-overhead HTTP server through a heavy extension of [`coro-http`](https://github.com/luvit/lit/blob/master/deps/coro-http.lua)~~ Rubis now uses [Rind](https://numelon.fandom.com/wiki/Rind) in Go..
 - Full telemetry with latency histograms, RPC counters, TTFB, and tag-based metrics
-- MessagePack metadata pipeline with serialisation offloaded to C
+- ~~MessagePack metadata pipeline with serialisation offloaded to C~~
 - Burst-tested to ~12.5M requests without failure
 - Used as the backend trust layer for [sUNC's](https://sunc.su) test result verification
 
@@ -48,7 +49,7 @@ Of course, all of the above practically means nothing if I don't tell you about 
 - Zero runtime dependencies in the browser
 
 ### Numelon Passport - OAuth2 Identity Provider
-*Currently being rewritten in Go using my in-progress framework, Rind*
+*Currently being rewritten in Go using [Rind](https://numelon.fandom.com/wiki/Rind)*
 
 - Full OAuth2 authorisation code flow
 - Sessions, grants, and application management
@@ -57,9 +58,16 @@ Of course, all of the above practically means nothing if I don't tell you about 
 - TOTP 2FA implemented from RFC 6238 / RFC 4226 using OpenSSL's HMAC
 - Custom SMTP client, "Letterbox", with persistent connections, MIME encoding, and connection pooling
 
+<!--
+TODO: work on website!
 ### There's more...
 
 There is A LOT more in *much* more detail, however I would like to keep my GitHub README concise. For more information, please visit [my website](https://richy.lol).
+-->
+
+### There's more...
+
+There is *a lot* more in *much* more detail, however I would like to keep my GitHub README concise. For more information, request my CV by sending an email to [hello@richy.lol](mailto:hello@richy.lol).
 
 ## Links
 
